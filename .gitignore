@@ -19,3 +19,16 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+#etc
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.BAK
+*.swn
+*.swm
+*.swo
+._*
+*~
+Thumbs.db
